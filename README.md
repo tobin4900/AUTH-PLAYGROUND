@@ -5,3 +5,4 @@ A practical project to learn how authentication works with:
 - Express
 - JWT (access + refresh tokens)
 - MongoDB
+- Passport.js
